@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkedin - linkedin.com/in/sai-priya-b612b41b7
+- 📫 How to reach me Linkedin - www.linkedin.com/in/saipriya22
 
 <!---
 SaiPriya-R/SaiPriya-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
